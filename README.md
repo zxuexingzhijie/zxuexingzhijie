@@ -4,6 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxuexingzhijie)
 ![trophy](https://github-profile-trophy.vercel.app/?username=zxuexingzhijie)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zxuexingzhijie&left_color=green&right_color=red)
 
 
 
