@@ -7,4 +7,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zxuexingzhijie&left_color=green&right_color=red)
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=zxuexingzhijie)
 
