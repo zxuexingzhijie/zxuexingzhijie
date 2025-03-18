@@ -1,6 +1,6 @@
 ## Hi there This is Makoto👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=50&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=50&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
