@@ -1,5 +1,7 @@
 ## Hi there This is Makoto👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=50&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
 <p align="center">
   <a href="https://github.com/zxuexingzhijie">
@@ -16,11 +18,7 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxuexingzhijie/zxuexingzhijie/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxuexingzhijie/zxuexingzhijie/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxuexingzhijie/zxuexingzhijie/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 
