@@ -1,9 +1,37 @@
-## Hey there, I'm **Makoto**! 👋
+# 𝕄𝕒�𝕠𝕥𝕠 🦊  
+*𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐌𝐚𝐭𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭*
 
-- **Artificial Intelligence** 🤖: I love exploring cutting-edge AI techniques and staying curious about the possibilities they bring.  
-- **Mathematics** 📐: Diving into the world of numbers and theorems keeps my mind sharp and my curiosity alive.  
-- **Back-End Development** 💻: Building robust systems from the ground up is both challenging and exciting.  
-- **Anime** 🎌: When I'm not coding or studying, I immerse myself in the vibrant world of anime!
+---
+
+### 🎯 **Core Passions**  
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+
+▹ **AI Architect**  
+`🤖 Transformers`  `🧠 Neural Networks`  
+*"Exploring the edge of artificial consciousness"*
+
+▹ **Math Alchemist**  
+📐 *Topology*  |  🧠 *Linear Algebra*  
+*"Turning equations into digital magic"*
+
+▹ **System Crafter**  
+🚀 *Microservices*  |  🛡️ *Rust*  
+*Building digital fortresses brick by brick*
+
+▹ **Anime Connoisseur**  
+🌸 *Makoto Shinkai*  |  ⚔️ *Attack on Titan*  
+*"Anime is my alternate reality gateway"*
+
+</div>
+
+---
+
+### 💡 **Current Obsessions**
+```python
+while True:
+    explore("Generative AI") 
+    implement("Distributed Systems")
+    watch("Cyberpunk: Edgerunners") 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
