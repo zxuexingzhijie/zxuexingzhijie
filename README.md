@@ -1,24 +1,40 @@
 # 𝕄𝕒𝕜𝕠𝕥𝕠 🦊  
 *𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐌𝐚𝐭𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 & 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭*
 
+---
 
 ### 🎯 **Core Passions**  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
 
 ▹ **AI Architect**  
-`🤖 Transformers`  `🧠 Neural Networks`  
-*"Exploring the edge of artificial consciousness"*
+`🤖 Transformers` `🧠 GANs` `🦾 RLHF`  
+*"Sculpting intelligence with PyTorch lightning"*  
+▸ 𝚃𝚎𝚗𝚜𝚘𝚛𝙵𝚕𝚘𝚠 ◂ 𝙿𝚢𝚃𝚘𝚛𝚌𝚑 ◂ 𝙺𝚎𝚛𝚊𝚜
 
-▹ **Math Alchemist**  
-📐 *Topology*  |  🧠 *Linear Algebra*  
-*"Turning equations into digital magic"*
+▹ **Code Alchemist**  
+☕ *Java*  |  🖖 *Vue*  |  🐍 *Python*  
+`🌿 Git` `🐙 GitHub` `☁️ AWS`  
+*"Crafting cloud-native architectures"*
 
-▹ **Anime Connoisseur**  
-🌸 *Makoto Shinkai*  |  ⚔️ *Attack on Titan*  
-*"Anime is my alternate reality gateway"*
+▹ **Math Sorcerer**  
+📜 *Number Theory*  |  🌀 *Topology*  
+`📐 Geogebra` `🧮 LaTeX` `∞ Manim`  
+*"Conjuring beauty through equations"*
+
+▹ **Anime Voyager**  
+🌸 *Your Name*  |  ⚡ *Jujutsu Kaisen*  
+`🎌 Crunchyroll` `📺 Muse Asia` `🎧 Anime OST`  
+*"Breathing life between frames"*
 
 </div>
 
+---
+
+### 🔮 **Tech Grimoire**  
+```diff
++ 𝙹𝚊𝚟𝚊 𝙲𝚕𝚘𝚞𝚍 𝙼𝚒𝚌𝚛𝚘𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜  
++ 𝚅𝚞𝚎.𝚓𝚜 𝚆𝚎𝚋 𝙰𝚕𝚌𝚑𝚎𝚖𝚢  
+# 𝙶𝚒𝚝 𝙵𝚕𝚘𝚠 𝙼𝚊𝚐𝚒𝚌
 
 
 <p align="center">
