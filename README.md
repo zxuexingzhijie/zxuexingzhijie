@@ -1,4 +1,7 @@
 ## Hi there This is Makoto👋
+
+I like to study artificial intelligence, math and back-end development, and I'm also a fan of anime.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
