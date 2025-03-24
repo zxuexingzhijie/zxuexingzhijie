@@ -3,7 +3,7 @@
 
 <hr />
 
-### 🎯 Core Passions
+<h3 align="center">🎯 Core Passions</h3>
 
 <div align="center">
 
@@ -14,6 +14,7 @@
 | <em>📜 Number Theory &vert; 🌀 Topology</em><br><code>📐 Geogebra</code> <code>🧮 LaTeX</code> <code>∞ Manim</code><br><em>"Conjuring beauty through equations"</em> | <em>🌸 Your Name &vert; ⚡ Jujutsu Kaisen</em><br><code>🎌 Crunchyroll</code> <code>📺 Muse Asia</code> <code>🎧 Anime OST</code><br><em>"Breathing life between frames"</em> |
 
 </div>
+
 
 
 <p align="center">
