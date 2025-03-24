@@ -1,7 +1,6 @@
 # 𝕄𝕒𝕜𝕠𝕥𝕠 🦊  
 *𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐌𝐚𝐭𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 & 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭*
 
----
 
 ### 🎯 **Core Passions**  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
@@ -20,7 +19,6 @@
 
 </div>
 
----
 
 
 <p align="center">
