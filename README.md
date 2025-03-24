@@ -5,10 +5,10 @@
 
 <div align="center">
 
-| <strong>AI Architect</strong>                                                                                                   | <strong>Code Alchemist</strong>                                                                                          |
+| <strong>AI researcher</strong>                                                                                                   | <strong>Code Alchemist</strong>                                                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| <code>🤖 Transformers</code> <code>🧠 GANs</code> <code>🦾 RLHF</code><br><em>"Sculpting intelligence with PyTorch Lightning"</em><br><small>TensorFlow • PyTorch • Keras</small> | <em>☕ Java &vert; 🖖 Vue &vert; 🐍 Python</em><br><code>🌿 Git</code> <code>🐙 GitHub</code> <code>☁️ AWS</code><br><em>"Crafting cloud-native architectures"</em> |
-| <strong>Math Sorcerer</strong>                                                                                                 | <strong>Anime Voyager</strong>                                                                                           |
+| <code>🤖 Transformers</code> <code>🧠 GANs</code> <code>🦾 RLHF</code><br><em>"Sculpting intelligence with PyTorch Lightning"</em><br><small>TensorFlow • PyTorch • Keras</small> | <em>☕ Java &vert; 🐍 Python</em><br><code>🌿 Git</code> <code>🐙 GitHub</code> <code>☁️ AWS</code><br><em>"Crafting cloud-native architectures"</em> |
+| <strong>Math Enthusiast</strong>                                                                                                 | <strong>Anime Voyager</strong>                                                                                           |
 | <em>📜 Number Theory &vert; 🌀 Topology</em><br><code>📐 Geogebra</code> <code>🧮 LaTeX</code> <code>∞ Manim</code><br><em>"Conjuring beauty through equations"</em> | <em>🌸 Your Name &vert; ⚡ Jujutsu Kaisen</em><br><code>🎌 Crunchyroll</code> <code>📺 Muse Asia</code> <code>🎧 Anime OST</code><br><em>"Breathing life between frames"</em> |
 
 </div>
