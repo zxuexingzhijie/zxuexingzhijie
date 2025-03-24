@@ -1,6 +1,9 @@
-## Hi there! This is Makoto 👋
+## Hey there, I'm **Makoto**! 👋
 
-✨ I'm passionate about studying **Artificial Intelligence 🤖**, diving into **Mathematics 📐**, and exploring **Back-end Development 💻**. Plus, I'm a huge fan of **Anime 🎌**!
+- **Artificial Intelligence** 🤖: I love exploring cutting-edge AI techniques and staying curious about the possibilities they bring.  
+- **Mathematics** 📐: Diving into the world of numbers and theorems keeps my mind sharp and my curiosity alive.  
+- **Back-End Development** 💻: Building robust systems from the ground up is both challenging and exciting.  
+- **Anime** 🎌: When I'm not coding or studying, I immerse myself in the vibrant world of anime!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
