@@ -1,32 +1,53 @@
-# 𝕄𝕒𝕜𝕠𝕥𝕠 🦊  
-*𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐌𝐚𝐭𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 & 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭*
+<div style="width: 80%; margin: 0 auto; text-align: center;">
+  <h1>𝕄𝕒𝕜𝕠𝕥𝕠 🦊</h1>
+  <em>𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐌𝐚𝐭𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 & 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭</em>
 
----
+  <hr />
 
-### 🎯 **Core Passions**  
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <h3>🎯 <strong>Core Passions</strong></h3>
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    place-items: center;
+    margin-top: 1rem;
+  ">
 
-▹ **AI Architect**  
-`🤖 Transformers` `🧠 GANs` `🦾 RLHF`  
-*"Sculpting intelligence with PyTorch lightning"*  
-▸ 𝚃𝚎𝚗𝚜𝚘𝚛𝙵𝚕𝚘𝚠 ◂ 𝙿𝚢𝚃𝚘𝚛𝚌𝚑 ◂ 𝙺𝚎𝚛𝚊𝚜
+    <!-- AI Architect -->
+    <div>
+      <strong>▹ AI Architect</strong><br>
+      <code>🤖 Transformers</code> <code>🧠 GANs</code> <code>🦾 RLHF</code><br>
+      <em>"Sculpting intelligence with PyTorch Lightning"</em><br>
+      <small>▸ 𝚃𝚎𝚗𝚜𝚘𝚛𝙵𝚕𝚘𝚠 ◂ 𝙿𝚒𝚃𝚘𝚛𝚌𝚑 ◂ 𝙺𝚎𝚛𝚊𝚜</small>
+    </div>
 
-▹ **Code Alchemist**  
-☕ *Java*  |  🖖 *Vue*  |  🐍 *Python*  
-`🌿 Git` `🐙 GitHub` `☁️ AWS`  
-*"Crafting cloud-native architectures"*
+    <!-- Code Alchemist -->
+    <div>
+      <strong>▹ Code Alchemist</strong><br>
+      <em>☕ Java | 🖖 Vue | 🐍 Python</em><br>
+      <code>🌿 Git</code> <code>🐙 GitHub</code> <code>☁️ AWS</code><br>
+      <em>"Crafting cloud-native architectures"</em>
+    </div>
 
-▹ **Math Sorcerer**  
-📜 *Number Theory*  |  🌀 *Topology*  
-`📐 Geogebra` `🧮 LaTeX` `∞ Manim`  
-*"Conjuring beauty through equations"*
+    <!-- Math Sorcerer -->
+    <div>
+      <strong>▹ Math Sorcerer</strong><br>
+      <em>📜 Number Theory | 🌀 Topology</em><br>
+      <code>📐 Geogebra</code> <code>🧮 LaTeX</code> <code>∞ Manim</code><br>
+      <em>"Conjuring beauty through equations"</em>
+    </div>
 
-▹ **Anime Voyager**  
-🌸 *Your Name*  |  ⚡ *Jujutsu Kaisen*  
-`🎌 Crunchyroll` `📺 Muse Asia` `🎧 Anime OST`  
-*"Breathing life between frames"*
+    <!-- Anime Voyager -->
+    <div>
+      <strong>▹ Anime Voyager</strong><br>
+      <em>🌸 Your Name | ⚡ Jujutsu Kaisen</em><br>
+      <code>🎌 Crunchyroll</code> <code>📺 Muse Asia</code> <code>🎧 Anime OST</code><br>
+      <em>"Breathing life between frames"</em>
+    </div>
 
+  </div>
 </div>
+
 
 
 <p align="center">
