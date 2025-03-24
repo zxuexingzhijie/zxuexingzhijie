@@ -1,8 +1,6 @@
 <h1 align="center">Makoto 🦊</h1>
 <p align="center"><em>AI Developer & Math Enthusiast & Back-End Development</em></p>
 
-<hr />
-
 <h3 align="center">🎯 Core Passions</h3>
 
 <div align="center">
