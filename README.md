@@ -28,14 +28,6 @@
 
 </div>
 
----
-
-### 🔮 **Tech Grimoire**  
-```diff
-+ 𝙹𝚊𝚟𝚊 𝙲𝚕𝚘𝚞𝚍 𝙼𝚒𝚌𝚛𝚘𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜  
-+ 𝚅𝚞𝚎.𝚓𝚜 𝚆𝚎𝚋 𝙰𝚕𝚌𝚑𝚎𝚖𝚢  
-# 𝙶𝚒𝚝 𝙵𝚕𝚘𝚠 𝙼𝚊𝚐𝚒𝚌
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
