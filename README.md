@@ -4,17 +4,6 @@
 <h1 align="center">Makoto 🦊</h1>
 <p align="center"><em>AI Developer & Math Enthusiast & Back-End Development</em></p>
 
-<h3 align="center">🎯 Core Passions</h3>
-
-<div align="center">
-
-| <strong>AI researcher</strong>                                                                                                   | <strong>Code Alchemist</strong>                                                                                          |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| <code>🤖 Transformers</code> <code>🧠 GANs</code> <code>🦾 RLHF</code><br><em>"Sculpting intelligence with PyTorch Lightning"</em><br><small>TensorFlow • PyTorch • Keras</small> | <em>☕ Java &vert; 🐍 Python</em><br><code>🌿 Git</code> <code>🐙 GitHub</code> <code>☁️ AWS</code><br><em>"Crafting cloud-native architectures"</em> |
-| <strong>Math Enthusiast</strong>                                                                                                 | <strong>Anime Voyager</strong>                                                                                           |
-| <em>📜 Number Theory &vert; 🌀 Topology</em><br><code>📐 Geogebra</code> <code>🧮 LaTeX</code> <code>∞ Manim</code><br><em>"Conjuring beauty through equations"</em> | <em>🌸 Your Name &vert; ⚡ Jujutsu Kaisen</em><br><code>🎌 Crunchyroll</code> <code>📺 Muse Asia</code> <code>🎧 Anime OST</code><br><em>"Breathing life between frames"</em> |
-
-</div>
 
 
 
