@@ -4,8 +4,9 @@
 <p align="center"><em>AI Developer & Math Enthusiast & Back-End Development</em></p>
 <p align="center">
   <a href="https://makoto-blog.vercel.app/" target="_blank">🌐 Blog</a>
+  <br>
+  <em>This is my Blog - Where algorithms meet elegance</em>
 </p>
-
 
 
 
