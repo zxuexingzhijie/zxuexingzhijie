@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://makoto-blog.vercel.app/" target="_blank">🌐 Blog</a>
   <br>
-  <em>This is my Blog - Where algorithms meet elegance</em>
+  <em>This is my Blog - Where code meet life</em>
 </p>
 
 
