@@ -23,9 +23,6 @@
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxuexingzhijie&layout=compact&langs_count=8&card_width=130&theme=blue" />
   </a>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&section=header&text=Hi,friend!+ヾ(Ő∀Ő๑)ﾉ&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
 
 
 
