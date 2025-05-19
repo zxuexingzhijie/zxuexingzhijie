@@ -4,7 +4,10 @@
   <a href="https://makoto-blog.vercel.app/" target="_blank">🌐 Blog</a>
   <br>
   <em>This is my Blog - Where code meet life</em>
+  <br>
+  <strong>📌 访问博客需要翻墙</strong>
 </p>
+
 
 
 
