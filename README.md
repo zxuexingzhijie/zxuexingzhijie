@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/zxuexingzhijie">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=blue" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=blue&cache_seconds=21600" />
   </a>
     <!-- <a href="https://github.com/zxuexingzhijie">
 <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zxuexingzhijie&theme=blue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
