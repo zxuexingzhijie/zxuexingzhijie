@@ -19,7 +19,7 @@
 <img height=155 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zxuexingzhijie&theme=blue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
   </a>
   <a href="https://github.com/zxuexingzhijie">
-<img height=130 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zxuexingzhijie&theme=blue&hide_border=true&border_radius=5"/>
+<img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zxuexingzhijie&theme=blue&hide_border=true&border_radius=5"/>
   </a> -->
   <a href="https://github.com/zxuexingzhijie">
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxuexingzhijie&layout=compact&langs_count=8&card_width=130&theme=blue&cache_seconds=21600" />
