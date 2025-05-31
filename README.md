@@ -11,18 +11,17 @@
 
 
 
+<h1 align="center">
+  <img src="https://img.shields.io/badge/OuterCyrex-%F0%9F%94%A5%20Full%20Stack%20Explorer-blueviolet?style=for-the-badge&logo=github" alt="name badge" />
+</h1>
+
+
 <p align="center">
   <a href="https://github.com/zxuexingzhijie">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=blue&cache_seconds=21600" />
-  </a>
-    <!-- <a href="https://github.com/zxuexingzhijie">
-<img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zxuexingzhijie&theme=blue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=vue" />
   </a>
   <a href="https://github.com/zxuexingzhijie">
-<img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zxuexingzhijie&theme=blue&hide_border=true&border_radius=5"/>
-  </a> -->
-  <a href="https://github.com/zxuexingzhijie">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxuexingzhijie&layout=compact&langs_count=8&card_width=130&theme=blue&cache_seconds=21600" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuexingzhijie&layout=compact&theme=vue&cache_seconds=60" />
   </a>
 </p>
 
