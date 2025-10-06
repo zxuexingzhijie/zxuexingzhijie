@@ -17,8 +17,15 @@
   </a>
 </p>
 
+<h3>About Me</h3>
+<p>
+  By day, the bugs I sow, by night, I chase away.<br>
+  On weekends, to their ghosts, my apologies I say.<br>
+  This code, a poised elegance, a future debt in tow—<br>
+  Be the epitaph engraved where my weary hands will go.
+</p>
 
-
-
-
-
+<h3>Open Source Contributions</h3>
+<p>
+  <b>Spring AI Alibaba Committer</b>: <a href="https://github.com/alibaba/spring-ai-alibaba">alibaba/spring-ai-alibaba</a>
+</p>
