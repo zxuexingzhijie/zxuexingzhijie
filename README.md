@@ -1,9 +1,5 @@
 
 <h1 align="center">Makoto</h1>
-<p align="center">  
-  <a href="https://makoto-blog.vercel.app/" target="_blank">🌐 Blog</a>
-</p>
-
 
 <p align="center">
   <a href="https://spring.io/" target="_blank">
