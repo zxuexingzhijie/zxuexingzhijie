@@ -8,6 +8,32 @@
 </p>
 
 
+<p align="center">
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+</p>
+
 <h3 align="center">About Me</h3>
 <p align="center">
   By day, the bugs I sow, by night, I chase away.<br>
@@ -16,51 +42,26 @@
   Be the epitaph engraved where my weary hands will go.
 </p>
 
-<hr>
+<br>
 
 <h3 align="center">Open Source Contributions</h3>
-<p align="center">
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nginx-Server-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Server" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  </a>
-</p>
 <p align="center">
   <b>Spring AI Alibaba Committer</b>: <a href="https://github.com/alibaba/spring-ai-alibaba">alibaba/spring-ai-alibaba</a>
 </p>
 
-<hr>
+<br>
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/zxuexingzhijie">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=vue&card_width=420" alt="GitHub Stats" />
+        <img width="420" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=vue&card_width=420" alt="GitHub Stats" />
       </a>
     </td>
     <td width="24">&nbsp;</td>
     <td align="center">
       <a href="https://github.com/zxuexingzhijie">
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuexingzhijie&layout=compact&theme=vue&cache_seconds=60&card_width=420" alt="Top Languages" />
+        <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuexingzhijie&layout=compact&theme=vue&cache_seconds=60&card_width=420" alt="Top Languages" />
       </a>
     </td>
   </tr>
