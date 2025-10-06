@@ -44,7 +44,6 @@
   </a>
 </p>
 
-<h3 align="center">About Me</h3>
 <p align="center">
   By day, the bugs I sow, by night, I chase away.<br>
   On weekends, to their ghosts, my apologies I say.<br>
