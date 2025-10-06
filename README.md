@@ -8,15 +8,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/zxuexingzhijie">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=vue" />
-  </a>
-  <a href="https://github.com/zxuexingzhijie">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuexingzhijie&layout=compact&theme=vue&cache_seconds=60" />
-  </a>
-</p>
-
 <h3 align="center">About Me</h3>
 <p align="center">
   By day, the bugs I sow, by night, I chase away.<br>
@@ -28,4 +19,14 @@
 <h3 align="center">Open Source Contributions</h3>
 <p align="center">
   <b>Spring AI Alibaba Committer</b>: <a href="https://github.com/alibaba/spring-ai-alibaba">alibaba/spring-ai-alibaba</a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/zxuexingzhijie">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxuexingzhijie&show_icons=true&theme=vue" />
+  </a>
+  <a href="https://github.com/zxuexingzhijie">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuexingzhijie&layout=compact&theme=vue&cache_seconds=60" />
+  </a>
 </p>
