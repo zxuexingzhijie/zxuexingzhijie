@@ -38,8 +38,10 @@
 </p>
 
 <p align="center">
-  By day, the bugs I sow, by night, I chase away.<br>
-  On weekends, to their ghosts, my apologies I say.<br>
+  By day, the bugs I sow.<br>
+  by night, I chase away.<br>
+  On weekends, to their ghosts.<br>
+  my apologies I say.<br>
   This code, a poised elegance, a future debt in tow—<br>
   Be the epitaph engraved where my weary hands will go.
 </p>
