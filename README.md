@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Loop of Bugs</b><br>
+  <b style="font-size: 1.8em;">Loop of Bugs</b><br>
   By day, the bugs I sow.<br>
   by night, I chase away.<br>
   On weekends, to their ghosts.<br>
