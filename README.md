@@ -8,7 +8,6 @@
   Be the epitaph engraved where my weary hands will go.
 </p>
 
-<hr>
 
 <h3 align="center">Open Source Contributions</h3>
 <p align="center">
