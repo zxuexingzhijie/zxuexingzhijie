@@ -12,7 +12,8 @@
 
 <h3 align="center">Open Source Contributions</h3>
 <p align="center">
-  <b>Spring AI Alibaba Committer</b>: <a href="https://github.com/alibaba/spring-ai-alibaba">alibaba/spring-ai-alibaba</a>
+  <b>Spring AI Alibaba Committer</b>: <a href="https://github.com/alibaba/spring-ai-alibaba">alibaba/spring-ai-alibaba</a><br>
+  <b>Agentic-ADK Contributor</b>: <a href="https://github.com/AIDC-AI/Agentic-ADK">AIDC-AI/Agentic-ADK</a>
 </p>
 
 <br>
