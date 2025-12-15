@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <div>“写今天的代码，赊明天的债。”</div>
+      <div>“写今天的代码 赊明天的债”</div>
     </td>
   </tr>
 </table>
